@@ -1,0 +1,12 @@
+---
+title: "DON'T READ THIS!!!"
+author: "blablabla"
+date: "2024-08-03"
+categories: [personal]
+---
+
+Gotya...it's just a part if human nature that when we have been asked to not do it, yet we still do.
+
+![](thumbnail.jpg)
+
+Since this post doesn't specify an explicit `image`, the first image in the post will be used in the listing page of posts.

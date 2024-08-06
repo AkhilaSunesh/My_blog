@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "My_blog",
+    "section": "",
+    "text": "Post With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nAug 6, 2024\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nQuarto: The Ultimate Tool for Effortless Digital Publishing\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nAug 3, 2024\n\n\nChatGPT\n\n\n\n\n\n\n\n\n\n\n\n\nDON’T READ THIS!!!\n\n\n\n\n\n\npersonal\n\n\n\n\n\n\n\n\n\nAug 3, 2024\n\n\nblablabla\n\n\n\n\n\n\n\n\n\n\n\n\nDON’T READ THIS!!!\n\n\n\n\n\n\npersonal\n\n\n\n\n\n\n\n\n\nAug 3, 2024\n\n\nblablabla\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "DON’T READ THIS!!!",
+    "section": "",
+    "text": "Gotya…it’s just a part if human nature that when we have been asked to not do it, yet we still do.\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "posts/Heaven/index.html",
+    "href": "posts/Heaven/index.html",
+    "title": "Quarto: The Ultimate Tool for Effortless Digital Publishing",
+    "section": "",
+    "text": "In the realm of digital publishing, the quest for simplicity and efficiency is perpetual. Enter Quarto, an open-source publishing system designed to simplify the creation of documents, websites, blogs, books, and presentations. Supporting a wide range of formats like HTML, PDF, Word, and ePub, Quarto is versatile for various publishing needs. With minimal installation steps, users can quickly get started, integrating seamlessly with R, Python, and Julia. Leveraging the simplicity of Markdown, Quarto ensures that writing and formatting documents are intuitive and efficient, making content creation accessible to both technical and non-technical users.\nDespite its simplicity, Quarto is powerful and extensible, allowing users to embed executable code, generate dynamic reports, and create interactive content. Its compatibility with version control systems like Git enhances collaboration, making it particularly beneficial for academic and research settings. Quarto also integrates smoothly with Jupyter Notebooks and RStudio, offering a familiar environment while expanding their capabilities. In a crowded landscape of publishing tools, Quarto stands out by blending simplicity, power, and flexibility, making it a valuable asset for anyone involved in digital publishing, from data scientists to casual bloggers.\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "posts/malblog/index.html",
+    "href": "posts/malblog/index.html",
+    "title": "DON’T READ THIS!!!",
+    "section": "",
+    "text": "എന്റെ പ്രതീക്ഷകൾ\nജീവിതത്തിൽ ഓരോരുത്തർക്കും ചില പ്രതീക്ഷകൾ, സ്വപ്നങ്ങൾ, ലക്ഷ്യങ്ങൾ എന്നിവയുണ്ട്. നമ്മുടെ പ്രതീക്ഷകൾ നമ്മെ മുന്നോട്ടു നയിക്കുന്ന ഒരു മാർഗരേഖയായാണ് പ്രവർത്തിക്കുന്നത്. എന്റെ ജീവിതത്തിൽ എനിക്ക് മുന്നിൽ നിൽക്കുന്ന ചില പ്രതീക്ഷകളെക്കുറിച്ചാണ് ഞാൻ ഇവിടെ ചിന്തിക്കുന്നത്.\n\n\nവിജ്ഞാനത്തിന്റെ ലോകം\nവിജ്ഞാനം എന്നത് എനിക്ക് എപ്പോഴും വലിയ പ്രാധാന്യമുള്ള ഒരു മേഖലയാണ്. എന്ത് പഠിച്ചാലും അതിന്റെ ആഴത്തിലുള്ള അറിവ് നേടുക എന്നത് എനിക്ക് പ്രധാനമാണ്. ഓരോ വിഷയത്തെയും അന്വഷിച്ച് പഠിക്കുന്നതിൽ നിന്നുള്ള സന്തോഷം എനിക്ക് വളരെയധികം ആസ്വദിക്കാനുണ്ട്. എന്താണ് പുതിയതായി അറിയാൻ കഴിയുമെന്ന് പ്രതീക്ഷിക്കുന്ന, വിജ്ഞാനത്തിന്റെ ഒരു തമ്പുരാനായാണ് ഞാൻ ജീവിക്കുന്നത്.\n\n\nആത്മവിശ്വാസവും ആത്മബോധവും\nജീവിതത്തിൽ എനിക്ക് ഒരുപാട് പ്രയാസങ്ങളും വെല്ലുവിളികളും നേരിടേണ്ടി വന്നിട്ടുണ്ട്. അതിനാൽ ആത്മവിശ്വാസം എന്നൊരു ശക്തിയുള്ള തൂണിനെ ചുറ്റിപ്പറ്റിയാണ് ഞാൻ എന്റെ പ്രതീക്ഷകൾ നിര്‍മിച്ചിരിക്കുന്നത്. സ്വന്തം കഴിവുകളിൽ വിശ്വസിച്ച്, അവയെ വളർത്തി, ജീവിതം വിജയം കൊയ്യുമെന്ന് പ്രതീക്ഷിക്കുന്നു. ആത്മബോധം എന്നത് വ്യക്തിത്വത്തിന്റെ ശക്തിയാണെന്നും അത് മനസ്സിലാക്കി, ജീവിതത്തിൽ മുന്നേറാൻ പ്രചോദനം നൽകുന്ന പ്രതീക്ഷയാണ്.\n\n\nപ്രണയവും ബന്ധങ്ങളും\nബന്ധങ്ങളും പ്രണയവും ജീവിതത്തിന്റെ അനിവാര്യ ഘടകങ്ങളാണ്. ജീവിതത്തിൽ നല്ല ബന്ധങ്ങൾ ഉണ്ടാക്കുക, അവയെ പരിപാലിക്കുക എന്നത് എനിക്ക് വലിയ പ്രതീക്ഷയാണ്. നല്ല സുഹൃത്തുക്കളും കുടുംബവുമാണ് ജീവിതത്തിന്റെ സാർഥകത. എല്ലാവരോടും സ്നേഹത്തോടെ പെരുമാറുക, പരസ്പരം ബഹുമാനിക്കുക എന്നത് എന്റെയും പ്രതീക്ഷയാണ്.\n\n\nപ്രതീക്ഷകളുടെ ചിതൽക്കൂട്\nഎല്ലാവർക്കും ഓരോ പ്രതീക്ഷകളും സ്വപ്നങ്ങളും ഉണ്ട്. എന്റെ പ്രതീക്ഷകൾ എന്നത് എന്റെ ജീവിതത്തിന്റെ പാതയാണ്. ഈ പാതയിൽ സന്തോഷത്തോടെ മുന്നേറുക, എന്റെ ലക്ഷ്യങ്ങൾ നേടുക എന്നതാണ് എന്റെ ഏറ്റവും വലിയ പ്രതീക്ഷ.\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  }
+]
